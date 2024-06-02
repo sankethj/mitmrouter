@@ -1,3 +1,6 @@
+### also check video ss
+1. tls cert verification: use this script to redirect traffic from br0 interface. then start wireshark capture and mitmproxy or sslsplit to use fake certs mitmproxy has created.
+
 # mitmrouter
 Bash script to automate setup of Linux router useful for IoT device traffic analysis and SSL mitm
 
